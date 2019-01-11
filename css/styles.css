@@ -1,19 +1,31 @@
-body{
-    background-color: blue;
-    text-align: center;
+body
+{
+  background-color: blue;
+  text-align: center;
 }
 
-.building {
+.building
+{
   width: 700px;
 }
 
-#first-img{
-  margin-bottom: 35px;
+#first-img
+{
+ margin-bottom: 35px;
 }
-h1{
+
+h1
+{
    color: white;
    font-size: 90px;
-  }
-#sub{
+}
+
+#sub
+{
+  color:white;
+}
+
+#paragraph
+{
   color:white;
 }
